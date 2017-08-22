@@ -1,4 +1,5 @@
-#CrankedBlue WP Theme
+CrankedBlue WP Theme
+-----------------
 Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
 Tested in: 4.7 (should work great for older than 4.0)
 License: GNU General Public License v2 or later
